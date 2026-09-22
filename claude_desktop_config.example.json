@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "devflow": {
+      "command": "/ABSOLUTE/PATH/TO/devflow-mcp/.venv/bin/python",
+      "args": ["/ABSOLUTE/PATH/TO/devflow-mcp/server.py"]
+    }
+  }
+}

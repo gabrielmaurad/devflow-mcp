@@ -1,0 +1,8 @@
+# Runtime dependencies for the devflow MCP server (needs Python 3.10 or newer).
+# Pinned to the exact versions this project was developed and tested with.
+#
+# Note: mcp 2.x renamed FastMCP to MCPServer (import mcp.server.fastmcp no longer exists),
+# so mcp is pinned to the 1.x release the code was written and tested against.
+mcp==1.27.0
+httpx==0.28.1
+python-dotenv==1.2.2
